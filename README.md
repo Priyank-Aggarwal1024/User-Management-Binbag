@@ -96,6 +96,7 @@ The following environment variables need to be set in a `.env` file:
 - `JWT_SECRET`: Secret key for JWT token generation
 - `PORT`: Server port number (default: 3000)
 - `NODE_ENV`: Environment mode (development/production)
+  Preffered to use development
 
 ## API Documentation
 
