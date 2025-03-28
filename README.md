@@ -96,3 +96,10 @@ The following environment variables need to be set in a `.env` file:
 - `JWT_SECRET`: Secret key for JWT token generation
 - `PORT`: Server port number (default: 3000)
 - `NODE_ENV`: Environment mode (development/production)
+
+## API Documentation
+
+For detailed API specifications and usage examples, refer to the Postman API documentation:
+
+[Postman API Documentation](https://documenter.getpostman.com/view/35193519/2sB2cPiQA3)
+
